@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7ebd12de1e71c1142bc12ed00a6fa7e5
+guid: d4d435c5f03e1d541982151cef2d39e3
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: mirar_izquierda_guerrero
+  - name: espalda
     originalName: 
-    pivot: {x: 0.5625, y: -0.2916667}
+    pivot: {x: 0.47619048, y: -0.14814815}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 16
-      height: 24
-    spriteID: 0e55a52315c5993448cc37ec08778987
+      width: 21
+      height: 27
+    spriteID: 5edf91d420cef6a4a8afe46f0237a947
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,36 +144,23 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -918712458
-    name: mirar_izquierda_guerrero
+    guid: -2042994132
+    name: espalda
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: mirar_izquierda_guerrero
+    - name: espalda
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
-        x: 7
-        y: 7
-        width: 16
-        height: 24
-      spriteId: 0e55a52315c5993448cc37ec08778987
+        x: 6
+        y: 4
+        width: 21
+        height: 27
+      spriteId: 5edf91d420cef6a4a8afe46f0237a947
     linkedCells: []
     parentIndex: -1
-  platformSettings:
-  - name: Default
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
+  platformSettings: []
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
